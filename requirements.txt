@@ -1,0 +1,3 @@
+python-dotenv  # Para leer el archivo .env
+requests       # Por si decidimos usar la API en el futuro
+fpdf2          # Para generar los reportes en PDF
